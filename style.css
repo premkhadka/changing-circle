@@ -1,0 +1,45 @@
+.head_container{
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    background-color:green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1{
+
+    height: 350px;
+    width: 550px;
+    background-color:red;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle1{
+    height: 50px;
+    width: 50px;
+    background-color:black;
+    border-radius: 50px;
+    margin-right: 25px;
+}
+
+.circle2{
+    height: 50px;
+    width: 50px;
+    background-color:yellow;
+    border-radius: 50px;
+    margin-right: 25px;
+
+}
+
+.circle3{
+    height: 50px;
+    width: 50px;
+    background-color:aliceblue;
+    border-radius: 50px;
+    margin-right: 25px;
+}
